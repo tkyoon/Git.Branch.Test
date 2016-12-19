@@ -8,12 +8,12 @@ package com.jcone;
  * </pre>
  *
  * @title Test
- * @desc 
+ * @desc
  * @programID Test.java
  * @cdate 2016. 12. 19.
  * @version 1.0
  * @author 윤태경(tkyoon@jcone.co.kr)
- * @see 
+ * @see
  *
  */
 public class Test {
@@ -21,12 +21,12 @@ public class Test {
 	/**
 	 * <pre>
 	 * </pre>
-	 * 
+	 *
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO 해야할일
-
+		//datascrip branch commit
 	}
 
 }
