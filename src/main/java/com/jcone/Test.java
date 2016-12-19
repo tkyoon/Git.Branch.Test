@@ -26,7 +26,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO 해야할일
-		//datascrip branch commit
+		//master branch commit
 	}
 
 }
